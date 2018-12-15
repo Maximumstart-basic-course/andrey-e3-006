@@ -1,6 +1,6 @@
 # Базовый курс веб-разработки
 
-* Студент:  `undefined`.
+* Студент:  `Andrey Goculya`.
 * План занятий: [нате](https://docs.google.com/document/d/1e6PG06nszODebSn5DsqBsG6AujbXoKmqj1drDsoQElM/edit?usp=sharing).
 * Требования к выпускному проекту: [тут](https://docs.google.com/document/d/16VOU_viRMtN2wBW6nv_2rGkjsI8PiBILPVwKOMp-vMs/edit?usp=sharing).
 * Основные репозитории: [здесь](https://github.com/Maximumstart-basic-course).
@@ -184,5 +184,5 @@ npm test или npm t
 Некоторые ошибки линтер предложит исправить автоматически. Для этого запусти команду:
 
 ```bash
-npm run all:fix
+npm run eslint:fix
 ```
